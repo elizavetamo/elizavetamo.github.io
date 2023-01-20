@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: black;
+}
+
+nav {
+    background-color: white;
+}
+
+a:link{
+    color: blue;
+}
+a:visited{
+    color: purple;
+}
+p{
+    color: green;
+}
+
+#test{
+    color: red;
+}
